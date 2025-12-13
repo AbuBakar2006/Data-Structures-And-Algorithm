@@ -14,9 +14,8 @@ This repository is designed to demonstrate understanding of memory management, p
 - [Directory Structure](#-directory-structure)
 - [Algorithms Implemented](#-algorithms-implemented)
 - [Data Structures Implemented](#-data-structures-implemented)
-- [Complexity Analysis](#-complexity-analysis)
 - [How to Run](#-how-to-run)
-- [Resources](#-resources)
+- [Contributions](#-contributions)
 
 ---
 
@@ -73,20 +72,20 @@ This repository focuses on clean, readable, and efficient implementations.
 
 | Category | Algorithm | Complexity / Notes | Status |
 | :--- | :--- | :--- | :---: |
-| **1. Sorting** | Bubble Sort | $O(n^2)$ | ✅ |
+| **Sorting** | Bubble Sort | $O(n^2)$ | ✅ |
 | | Insertion Sort | $O(n^2)$ | ✅ |
 | | Selection Sort | $O(n^2)$ | ✅ |
 | | Merge Sort | $O(n \log n)$ | ✅ |
 | | Quick Sort | $O(n \log n)$ | ✅ |
 | | Heap Sort | $O(n \log n)$ | ✅ |
-| **2. Searching** | Linear Search | $O(n)$ | ✅ |
+| **Searching** | Linear Search | $O(n)$ | ✅ |
 | | Binary Search | $O(\log n)$ (Iterative & Recursive) | ✅ |
 | | Interpolation Search | $O(\log(\log n))$ | ❌ |
-| **3. Graphs** | BFS & DFS | Traversal | 🚧 |
+| **Graphs** | BFS & DFS | Traversal | 🚧 |
 | | Dijkstra's Algorithm | Shortest Path | ❌ |
 | | Kruskal’s Algorithm | MST | ❌ |
 | | Prim’s Algorithm | MST | ❌ |
-| **4. DP** | Knapsack Problem | 0/1 Knapsack | ❌ |
+| **DP** | Knapsack Problem | 0/1 Knapsack | ❌ |
 | | Longest Common Subsequence | LCS | ❌ |
 | | Matrix Chain Multiplication | Optimization | ❌ |
 
