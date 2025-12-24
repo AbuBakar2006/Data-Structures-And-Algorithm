@@ -36,17 +36,21 @@ This repository focuses on clean, readable, and efficient implementations.
 │   ├── Backtracking/
 │   ├── DynamicProgramming/
 │   ├── Greedy/
-│   ├── Searching/
-│   └── Sorting/
+│   ├── 📁 Searching/
+│   └── 📁 Sorting/
 |
 ├── 📁 DataStructures/
 │   ├── 📁 Lists/
-│   |   ├── SinglyLinkedList.cpp
-|   |   ├── DoublyLinkedList.cpp
-|   |   └── CircularLinkedList.cpp
+│   |   ├── 📁 SinglyLinkedList/
+|   |   |   └──  Singly-Linked-List.cpp
+|   |   ├── 📁 DoublyLinkedList/
+|   |   |   └──  Doubly-Linked-List.cpp
+|   |   └── 📁 CircularLinkedList/
+|   |       ├──  Singly-Linked-Circular-List.cpp
+|   |       └──  Doubly-Linked-Circular-List.cpp
 |   ├── 📁 Queues/
 |   |   ├── Queue.cpp
-|   |   └── PriorityQueue.cpp
+|   |   └── Priority-Queue.cpp
 |   ├── 📁 Stacks
 |   |   └── Stack.cpp
 │   ├── 📁 Graphs/
